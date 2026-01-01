@@ -1,9 +1,11 @@
 ﻿// this code produces "psuedorandom" numbers, meaning it simulates randomness via definite mathematics
 
+using System.Diagnostics.CodeAnalysis;
+
 Random d6 = new Random();
 int[] counts = new int[19];
 
-for (int i = 0; i < 10; i++) // ++ = +1
+for (int i = 0; i < 1000000; i++) // ++ = +1
 {
 int roll1 = d6.Next(1, 7); // minimum is included, maximum is not included. this outputs 1-6  (as 7 is omitted)
 int roll2 = d6.Next(1, 7);
@@ -53,3 +55,13 @@ for (int i = 0; i < counts.Length; i++)
     }
 }
 
+int totalSum = 0;
+
+for (int i = 0; i < counts.Length; i++)
+{
+    totalSum += i*counts[i];
+}
+
+double average = totalSum / 1000000.0;
+Console.WriteLine($@"
+    Average: {average}");

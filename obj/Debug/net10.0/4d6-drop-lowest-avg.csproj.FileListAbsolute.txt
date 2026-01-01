@@ -1,0 +1,14 @@
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\bin\Debug\net10.0\4d6-drop-lowest-avg.exe
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\bin\Debug\net10.0\4d6-drop-lowest-avg.deps.json
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\bin\Debug\net10.0\4d6-drop-lowest-avg.runtimeconfig.json
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\bin\Debug\net10.0\4d6-drop-lowest-avg.dll
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\bin\Debug\net10.0\4d6-drop-lowest-avg.pdb
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\4d6-drop-lowest-avg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\4d6-drop-lowest-avg.AssemblyInfoInputs.cache
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\4d6-drop-lowest-avg.AssemblyInfo.cs
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\4d6-drop-lowest-avg.csproj.CoreCompileInputs.cache
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\4d6-drop-lowest-avg.dll
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\refint\4d6-drop-lowest-avg.dll
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\4d6-drop-lowest-avg.pdb
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\4d6-drop-lowest-avg.genruntimeconfig.cache
+C:\Users\choco\Documents\C#\4d6-drop-lowest-avg\4d6-drop-lowest-avg\obj\Debug\net10.0\ref\4d6-drop-lowest-avg.dll

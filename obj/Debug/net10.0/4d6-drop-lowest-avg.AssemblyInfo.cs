@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4d6-drop-lowest-avg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+179af20a61ea853b2fb6a950fba9c2398f421424")]
 [assembly: System.Reflection.AssemblyProductAttribute("4d6-drop-lowest-avg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4d6-drop-lowest-avg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
